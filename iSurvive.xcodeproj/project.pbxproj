@@ -448,6 +448,7 @@
 				5FF904F815E276E60089E2F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FF904F915E276E60089E2F6 /* Build configuration list for PBXNativeTarget "iSurviveTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +457,7 @@
 				5FF904FB15E276E60089E2F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
